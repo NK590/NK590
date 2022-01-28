@@ -4,6 +4,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NK590&show_icons=true&theme=dark)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dslr)](https://solved.ac/dslr)
+[![CodeForces Profile](https://cf.leed.at?id=NK0917)](https://codeforces.com/profile/NK0917)
 
 # Skills
 ### Platforms & Languages
