@@ -2,9 +2,9 @@
 
 # NK590 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NK590&show_icons=true&theme=white)
+  
 [![NK590's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NK590&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/NK590)
 
-[![CodeForces Profile](https://cf.leed.at?id=NK0917)](https://codeforces.com/profile/NK0917)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dslr)](https://solved.ac/dslr)
 
