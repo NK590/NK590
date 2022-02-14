@@ -22,8 +22,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
-  
-![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?&style=for-the-badge&logo=LaTeX&logoColor=white)
 
 ### Tools
 
