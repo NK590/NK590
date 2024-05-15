@@ -8,11 +8,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dslr)](https://solved.ac/dslr)
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathankim0917/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathankim0917/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathankim0917/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nathankim0917/discussion)
-
 
 # Skills
 ### Languages & Frameworks
